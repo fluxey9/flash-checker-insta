@@ -12,7 +12,9 @@ This script allows you to check the availability of a list of usernames on Insta
 Have a list of usernames in a text file (users.txt).
 
 1.Clone or download the repository to your local machine.
+
 2.Open a terminal/command prompt and navigate to the script's directory.
+
 3.Run the script using the following command:
   ```bash
 python script_name.py
@@ -20,8 +22,11 @@ python script_name.py
 
 ## Script Features
 +Multi-threaded: The script checks usernames using multiple threads for faster processing.
+
 +Telegram Notification: Notifies you on Telegram about the availability of usernames.
+
 +Uses Instagram API: This script uses the Instagram API to check username availability, preventing wrong notifications of banned or deactivated accounts.
+
 +Colorful Output: Utilizes colored text for a visually appealing user interface.
 
 ## Configuration
