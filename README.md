@@ -1,4 +1,4 @@
-# Instagram Username Checker Documentation
+# Instagram Username Checker 
 
 This script allows you to check the availability of a list of usernames on Instagram in bulk. It utilizes multi-threading for faster checking and can also notify you on Telegram about the availability of usernames.
 
@@ -31,20 +31,7 @@ Fix, Fix2, and Fix3: These variables contain error messages that the script look
 
 URL, headers, and data: These variables contain the necessary information for making requests to the Instagram server. Update them if needed.
 
-##Example Output :
-  <   CHECK INSTAGRAM USERNAMES IN BULK  
-   <   KEEP USERNAMES IN A TXT FILE IN SAME PATH  
- ---------------------------
- [#] NAME       : KARAN
- [#] WEBSITE    : https://karan.vip
- [#] INSTAGRAM  : @56536
- [#] TELEGRAM   : anarchs
- ---------------------------
-...
-[Username ~ Error] ==> username_error
-[Username ~ TaKen] ==> username_taken
-[Username ~ Good] ==> username_good
-...
+
 
 
 
