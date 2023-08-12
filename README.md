@@ -17,7 +17,7 @@ Have a list of usernames in a text file (users.txt).
 
 3.Run the script using the following command:
   ```bash
-python script_name.py
+python main.py
  ```
 
 ## Script Features
