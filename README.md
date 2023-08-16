@@ -8,7 +8,7 @@ This script allows you to check the availability of a list of usernames on Insta
 2. Install the required packages using the following command:
    
    ```bash
-   pip install requests cfonts
+   pip install requests python-cfonts
 Have a list of usernames in a text file (users.txt).
 
 1.Clone or download the repository to your local machine.
